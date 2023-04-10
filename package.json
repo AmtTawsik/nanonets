@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.4.1",
+    "nuxt": "^3.2.2"
+  },
+  "dependencies": {
+    "@vue-hero-icons/outline": "^1.7.2",
+    "@vue/composition-api": "^1.7.1",
+    "flowbite": "^1.6.3",
+    "flowbite-vue": "^0.0.10",
+    "nanoid": "^4.0.1",
+    "oh-vue-icons": "^1.0.0-rc3",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "vue-icon": "^2.3.0"
+  }
+}
